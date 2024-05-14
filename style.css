@@ -1,0 +1,21 @@
+.box{
+    width: 305px;
+    height: 168px;
+    border: 1px solid rgba(219, 0, 255, 1);
+}
+.box2{
+    width: 657px;
+    height: 121px;
+    border: 3px dashed rgba(69, 14, 78, 1);
+}
+.box3{
+    width: 399px;
+    height: 95px;
+    border: 3px solid rgba(4, 255, 74, 1);
+}
+.box4{
+    width: 1097px;
+    height: 173px;
+    background-color: rgba(36, 125, 175, 1);
+    border: 3px solid rgba(115, 110, 66, 1);
+}
