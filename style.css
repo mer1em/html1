@@ -1,20 +1,24 @@
 .box{
-    width: 300px;
-    height: 400px;
-    background-color: rgba(47, 129, 65, 1);
+    width: 500px;
+    border: 1px solid rgba(180, 180, 180, 1);
+    margin-top: 16px;
+    margin-left: 15px;
 }
-.box1{
-    width: 571px;
-    height: 140px;
-    background-color: rgba(19, 81, 59, 1);
+h2{
+    padding-top: 10x;
+    padding-left: 134px;
 }
-.box2{
-    width: 571px;
-    height: 140px;
-    background-color: rgba(230, 36, 187, 1);
+p{
+    padding-top: 10px;
+    padding-left: 134px;
 }
-.box3{
-    width: 571px;
-    height: 140px;
-    background-color: rgba(85, 239, 13, 1);
+img{
+    width: 305px;
+    height: 226px;
+    padding-top: 10px;
+    padding-left: 134px;
+}
+a{
+    padding-top: 10px;
+    padding-left: 134px;
 }
