@@ -1,24 +1,30 @@
-.box{
-    width: 500px;
-    border: 1px solid rgba(180, 180, 180, 1);
-    margin-top: 16px;
-    margin-left: 15px;
+body{
+    width: auto;
+    height: auto;
+    background-color: rgba(218, 165, 32, 1);
+
 }
-h2{
-    padding-top: 10x;
-    padding-left: 134px;
+.container{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
 }
-p{
-    padding-top: 10px;
-    padding-left: 134px;
+.square1{
+    width: 365px;
+    height: 365px;
+    border-radius: 12px;
+    background-color: rgba(41, 126, 64, 1);
 }
-img{
-    width: 305px;
-    height: 226px;
-    padding-top: 10px;
-    padding-left: 134px;
+.square2{
+    width: 365px;
+    height: 365px;
+    border-radius: 90px;
+    background-color: rgba(142, 40, 119, 1);
 }
-a{
-    padding-top: 10px;
-    padding-left: 134px;
+.square3{
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    background-color: rgba(54, 27, 164, 1);
 }
