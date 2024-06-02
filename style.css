@@ -1,8 +1,8 @@
 body{
     width: auto;
     height: auto;
+    margin: 0px;
     background-color: rgba(218, 165, 32, 1);
-
 }
 .container{
     margin-top: 20px;
